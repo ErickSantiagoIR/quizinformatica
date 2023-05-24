@@ -24,5 +24,5 @@ int main() {
     //printf("Palabra invertida: %s\n", palabra);
 
     system("pause");
-    return printf("La palabra invertida es: %s\n", palabra);;
+    return printf("La palabra invertida es: %s\n", palabra);
 }
