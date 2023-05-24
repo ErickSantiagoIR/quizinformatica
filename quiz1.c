@@ -10,7 +10,7 @@ int main() {
     
     int invertedNumber = getInvertNumber(numero);
 
-    printf("Número invertido: %d\n", invertedNumber);
+    printf("Numero invertido: %d\n", invertedNumber);
 
     return 0;
 }
